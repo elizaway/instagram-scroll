@@ -10,7 +10,7 @@ Link to the instagram-scroll.js source file in your webpage.
 Add the following code to webpage:
 ```
 <script>
-InstagramScroll({tag: "cats", clientID: "token", imageContainer: "#pics"})
+InstagramScroll({tag: "cats", clientID: "token", imageContainer: "#pics"});
 </script>
 ```
 
